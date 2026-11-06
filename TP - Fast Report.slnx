@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BLL/BLL.csproj" />
+  <Project Path="DAO/DAO.csproj" />
+  <Project Path="Entidades/Entidades.csproj" />
+  <Project Path="ORM/ORM.csproj" />
+  <Project Path="Vista/Vista.csproj" />
+</Solution>
